@@ -4,115 +4,7 @@
 <meta http-equiv=Content-Type content="text/html; charset=gb2312">
 <meta name=Generator content="Microsoft Word 12 (filtered)">
 <style>
-<!--
- /* Font Definitions */
- @font-face
-	{font-family:Wingdings;
-	panose-1:5 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:宋体;
-	panose-1:2 1 6 0 3 1 1 1 1 1;}
-@font-face
-	{font-family:"Cambria Math";
-	panose-1:2 4 5 3 5 4 6 3 2 4;}
-@font-face
-	{font-family:Calibri;
-	panose-1:2 15 5 2 2 2 4 3 2 4;}
-@font-face
-	{font-family:"\@宋体";
-	panose-1:2 1 6 0 3 1 1 1 1 1;}
- /* Style Definitions */
- p.MsoNormal, li.MsoNormal, div.MsoNormal
-	{margin-top:0in;
-	margin-right:0in;
-	margin-bottom:10.0pt;
-	margin-left:0in;
-	line-height:115%;
-	font-size:11.0pt;
-	font-family:"Calibri","sans-serif";}
-h1
-	{mso-style-link:"Heading 1 Char";
-	margin-right:0in;
-	margin-left:0in;
-	font-size:24.0pt;
-	font-family:"Times New Roman","serif";
-	font-weight:bold;}
-h2
-	{mso-style-link:"Heading 2 Char";
-	margin-right:0in;
-	margin-left:0in;
-	font-size:18.0pt;
-	font-family:"Times New Roman","serif";
-	font-weight:bold;}
-a:link, span.MsoHyperlink
-	{color:blue;
-	text-decoration:underline;}
-a:visited, span.MsoHyperlinkFollowed
-	{color:purple;
-	text-decoration:underline;}
-p
-	{margin-right:0in;
-	margin-left:0in;
-	font-size:12.0pt;
-	font-family:"Times New Roman","serif";}
-p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
-	{margin-top:0in;
-	margin-right:0in;
-	margin-bottom:10.0pt;
-	margin-left:.5in;
-	line-height:115%;
-	font-size:11.0pt;
-	font-family:"Calibri","sans-serif";}
-p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
-	{margin-top:0in;
-	margin-right:0in;
-	margin-bottom:0in;
-	margin-left:.5in;
-	margin-bottom:.0001pt;
-	line-height:115%;
-	font-size:11.0pt;
-	font-family:"Calibri","sans-serif";}
-p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
-	{margin-top:0in;
-	margin-right:0in;
-	margin-bottom:0in;
-	margin-left:.5in;
-	margin-bottom:.0001pt;
-	line-height:115%;
-	font-size:11.0pt;
-	font-family:"Calibri","sans-serif";}
-p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
-	{margin-top:0in;
-	margin-right:0in;
-	margin-bottom:10.0pt;
-	margin-left:.5in;
-	line-height:115%;
-	font-size:11.0pt;
-	font-family:"Calibri","sans-serif";}
-span.Heading1Char
-	{mso-style-name:"Heading 1 Char";
-	mso-style-link:"Heading 1";
-	font-family:"Times New Roman","serif";
-	font-weight:bold;}
-span.Heading2Char
-	{mso-style-name:"Heading 2 Char";
-	mso-style-link:"Heading 2";
-	font-family:"Times New Roman","serif";
-	font-weight:bold;}
-.MsoPapDefault
-	{margin-bottom:10.0pt;
-	line-height:115%;}
-@page WordSection1
-	{size:8.5in 11.0in;
-	margin:1.0in 1.25in 1.0in 1.25in;}
-div.WordSection1
-	{page:WordSection1;}
- /* List Definitions */
- ol
-	{margin-bottom:0in;}
-ul
-	{margin-bottom:0in;}
--->
+
 </style>
 
 </head>
@@ -155,7 +47,7 @@ memory cache, database cache, etc.</span></p>
 font-family:"Times New Roman","serif"'>Sub-Projects</span></b></p>
 
 <p class=MsoListParagraphCxSpFirst style='text-indent:-.25in;line-height:normal'><span
-style='font-size:12.0pt;font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-size:12.0pt;font-family:Symbol'>路<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span style='font-size:12.0pt;font-family:"Times New Roman","serif"'>CacheServiceLib</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='line-height:normal'><span
@@ -170,7 +62,7 @@ Structure to apply the service</span></p>
 style='font-size:12.0pt;font-family:"Times New Roman","serif"'>&nbsp;</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;line-height:normal'><span
-style='font-size:12.0pt;font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-size:12.0pt;font-family:Symbol'>路<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span style='font-size:12.0pt;font-family:"Times New Roman","serif"'>CacheServiceWeb</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='line-height:normal'><span
@@ -181,7 +73,7 @@ to publish a sample use case that applies cache service</span></p>
 style='font-size:12.0pt;font-family:"Times New Roman","serif"'>&nbsp;</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;line-height:normal'><span
-style='font-size:12.0pt;font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-size:12.0pt;font-family:Symbol'>路<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span style='font-size:12.0pt;font-family:"Times New Roman","serif"'>CacheServiceWeb</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='line-height:normal'><span
@@ -192,7 +84,7 @@ page to consume the web service</span></p>
 style='font-size:12.0pt;font-family:"Times New Roman","serif"'>&nbsp;</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;line-height:normal'><span
-style='font-size:12.0pt;font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-size:12.0pt;font-family:Symbol'>路<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span style='font-size:12.0pt;font-family:"Times New Roman","serif"'>TestCache</span></p>
 
 <p class=MsoListParagraphCxSpLast style='line-height:normal'><span
@@ -206,7 +98,7 @@ font-family:"Times New Roman","serif"'>CacheServiceLib</span></b></p>
 font-family:"Times New Roman","serif"'>The basic ideas are:</span></p>
 
 <p class=MsoListParagraphCxSpFirst style='text-indent:-.25in;line-height:normal'><span
-style='font-size:12.0pt;font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-size:12.0pt;font-family:Symbol'>路<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span style='font-size:12.0pt;font-family:"Times New Roman","serif"'>Inject
 caching service to function call flow using reflection (CacheProxy class)</span></p>
 
@@ -223,7 +115,7 @@ more work to config and setup the function calls in code.</span></p>
 style='font-size:12.0pt;font-family:"Times New Roman","serif"'>&nbsp;</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;line-height:normal'><span
-style='font-size:12.0pt;font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-size:12.0pt;font-family:Symbol'>路<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span style='font-size:12.0pt;font-family:"Times New Roman","serif"'>Caching
 objects in map structure </span></p>
 
@@ -245,7 +137,7 @@ consuming.</span></p>
 style='font-size:12.0pt;font-family:"Times New Roman","serif"'>&nbsp;</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;line-height:normal'><span
-style='font-size:12.0pt;font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-size:12.0pt;font-family:Symbol'>路<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span style='font-size:12.0pt;font-family:"Times New Roman","serif"'>Double
 Linked List to order the cache values by access timestamp</span></p>
 
@@ -257,7 +149,7 @@ to update the access timestamp (MemCache class)</span></p>
 style='font-size:12.0pt;font-family:"Times New Roman","serif"'>&nbsp;</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;line-height:normal'><span
-style='font-size:12.0pt;font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-size:12.0pt;font-family:Symbol'>路<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span style='font-size:12.0pt;font-family:"Times New Roman","serif"'>Cache
 Expiration</span></p>
 
@@ -281,7 +173,7 @@ supposed free spaces may be released late.</span></p>
 style='font-size:12.0pt;font-family:"Times New Roman","serif"'>&nbsp;</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;line-height:normal'><span
-style='font-size:12.0pt;font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-size:12.0pt;font-family:Symbol'>路<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span style='font-size:12.0pt;font-family:"Times New Roman","serif"'>Concurrency
 &amp; Multi-threading</span></p>
 
@@ -306,7 +198,7 @@ style='font-size:12.0pt;font-family:"Times New Roman","serif"'>&nbsp;</span></p>
 style='font-size:12.0pt;font-family:"Times New Roman","serif"'>&nbsp;</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;line-height:normal'><span
-style='font-size:12.0pt;font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-size:12.0pt;font-family:Symbol'>路<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span style='font-size:12.0pt;font-family:"Times New Roman","serif"'>Testing</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='line-height:normal'><span
@@ -318,7 +210,7 @@ running test cases in multi-threads situation</span></p>
 style='font-size:12.0pt;font-family:"Times New Roman","serif"'>&nbsp;</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;line-height:normal'><span
-style='font-size:12.0pt;font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-size:12.0pt;font-family:Symbol'>路<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span style='font-size:12.0pt;font-family:"Times New Roman","serif"'>Logging</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='line-height:normal'><span
@@ -329,7 +221,7 @@ to log information and store multi-threading test results.</span></p>
 style='font-size:12.0pt;font-family:"Times New Roman","serif"'>&nbsp;</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;line-height:normal'><span
-style='font-size:12.0pt;font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-size:12.0pt;font-family:Symbol'>路<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span style='font-size:12.0pt;font-family:"Times New Roman","serif"'>Left-out</span></p>
 
 <p class=MsoListParagraphCxSpLast style='line-height:normal'><span
