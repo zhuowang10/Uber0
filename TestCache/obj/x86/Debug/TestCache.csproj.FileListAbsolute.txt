@@ -1,0 +1,9 @@
+C:\Zhuo\projects\TestCache\obj\x86\Debug\TestCache.csprojResolveAssemblyReference.cache
+C:\Zhuo\projects\TestCache\bin\Debug\TestCache.exe.config
+C:\Zhuo\projects\TestCache\bin\Debug\TestCache.exe
+C:\Zhuo\projects\TestCache\bin\Debug\TestCache.pdb
+C:\Zhuo\projects\TestCache\bin\Debug\CacheServiceLib.dll
+C:\Zhuo\projects\TestCache\bin\Debug\log4net.dll
+C:\Zhuo\projects\TestCache\bin\Debug\CacheServiceLib.pdb
+C:\Zhuo\projects\TestCache\obj\x86\Debug\TestCache.exe
+C:\Zhuo\projects\TestCache\obj\x86\Debug\TestCache.pdb

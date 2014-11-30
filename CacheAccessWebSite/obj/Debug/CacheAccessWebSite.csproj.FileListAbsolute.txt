@@ -1,0 +1,4 @@
+C:\Zhuo\projects\CacheAccessWebSite\bin\CacheAccessWebSite.dll
+C:\Zhuo\projects\CacheAccessWebSite\bin\CacheAccessWebSite.pdb
+C:\Zhuo\projects\CacheAccessWebSite\obj\Debug\CacheAccessWebSite.dll
+C:\Zhuo\projects\CacheAccessWebSite\obj\Debug\CacheAccessWebSite.pdb

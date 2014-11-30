@@ -1,0 +1,10 @@
+C:\Users\zhwang\Documents\Visual Studio 2010\Projects\CacheServiceLib\CacheServiceLib\bin\Debug\CacheServiceLib.dll.config
+C:\Users\zhwang\Documents\Visual Studio 2010\Projects\CacheServiceLib\CacheServiceLib\bin\Debug\CacheServiceLib.dll
+C:\Users\zhwang\Documents\Visual Studio 2010\Projects\CacheServiceLib\CacheServiceLib\bin\Debug\CacheServiceLib.pdb
+C:\Users\zhwang\Documents\Visual Studio 2010\Projects\CacheServiceLib\CacheServiceLib\obj\Debug\CacheServiceLib.dll
+C:\Users\zhwang\Documents\Visual Studio 2010\Projects\CacheServiceLib\CacheServiceLib\obj\Debug\CacheServiceLib.pdb
+C:\Zhuo\projects\CacheServiceLib\CacheServiceLib\bin\Debug\CacheServiceLib.dll.config
+C:\Zhuo\projects\CacheServiceLib\CacheServiceLib\bin\Debug\CacheServiceLib.dll
+C:\Zhuo\projects\CacheServiceLib\CacheServiceLib\bin\Debug\CacheServiceLib.pdb
+C:\Zhuo\projects\CacheServiceLib\CacheServiceLib\obj\Debug\CacheServiceLib.dll
+C:\Zhuo\projects\CacheServiceLib\CacheServiceLib\obj\Debug\CacheServiceLib.pdb

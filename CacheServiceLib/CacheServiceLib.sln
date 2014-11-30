@@ -1,0 +1,89 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheServiceLib", "CacheServiceLib\CacheServiceLib.csproj", "{348FFAF3-5B2A-4DEC-B2B9-A86E8280FEFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCache", "..\TestCache\TestCache.csproj", "{629063FA-1B63-4F8A-93D7-AFE5080CED38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheAccessWebSite", "..\CacheAccessWebSite\CacheAccessWebSite.csproj", "{4F794021-C01E-4CB3-BE56-3CE7749921E7}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B5DD52EF-6A75-4626-8B6E-CDC62A26F4A2} = {B5DD52EF-6A75-4626-8B6E-CDC62A26F4A2}
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CacheServiceWeb", "http://localhost/CacheServiceWeb", "{B5DD52EF-6A75-4626-8B6E-CDC62A26F4A2}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{348FFAF3-5B2A-4DEC-B2B9-A86E8280FEFE}|CacheServiceLib.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/CacheServiceWeb"
+		Debug.AspNetCompiler.PhysicalPath = "..\CacheServiceWeb\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\CacheServiceWeb\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/CacheServiceWeb"
+		Release.AspNetCompiler.PhysicalPath = "..\CacheServiceWeb\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\CacheServiceWeb\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\CacheServiceWeb\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{348FFAF3-5B2A-4DEC-B2B9-A86E8280FEFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{348FFAF3-5B2A-4DEC-B2B9-A86E8280FEFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{348FFAF3-5B2A-4DEC-B2B9-A86E8280FEFE}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{348FFAF3-5B2A-4DEC-B2B9-A86E8280FEFE}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{348FFAF3-5B2A-4DEC-B2B9-A86E8280FEFE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{348FFAF3-5B2A-4DEC-B2B9-A86E8280FEFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{348FFAF3-5B2A-4DEC-B2B9-A86E8280FEFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{348FFAF3-5B2A-4DEC-B2B9-A86E8280FEFE}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{348FFAF3-5B2A-4DEC-B2B9-A86E8280FEFE}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{348FFAF3-5B2A-4DEC-B2B9-A86E8280FEFE}.Release|x86.ActiveCfg = Release|Any CPU
+		{629063FA-1B63-4F8A-93D7-AFE5080CED38}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{629063FA-1B63-4F8A-93D7-AFE5080CED38}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{629063FA-1B63-4F8A-93D7-AFE5080CED38}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{629063FA-1B63-4F8A-93D7-AFE5080CED38}.Debug|x86.ActiveCfg = Debug|x86
+		{629063FA-1B63-4F8A-93D7-AFE5080CED38}.Debug|x86.Build.0 = Debug|x86
+		{629063FA-1B63-4F8A-93D7-AFE5080CED38}.Release|Any CPU.ActiveCfg = Release|x86
+		{629063FA-1B63-4F8A-93D7-AFE5080CED38}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{629063FA-1B63-4F8A-93D7-AFE5080CED38}.Release|Mixed Platforms.Build.0 = Release|x86
+		{629063FA-1B63-4F8A-93D7-AFE5080CED38}.Release|x86.ActiveCfg = Release|x86
+		{629063FA-1B63-4F8A-93D7-AFE5080CED38}.Release|x86.Build.0 = Release|x86
+		{4F794021-C01E-4CB3-BE56-3CE7749921E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F794021-C01E-4CB3-BE56-3CE7749921E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F794021-C01E-4CB3-BE56-3CE7749921E7}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{4F794021-C01E-4CB3-BE56-3CE7749921E7}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{4F794021-C01E-4CB3-BE56-3CE7749921E7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4F794021-C01E-4CB3-BE56-3CE7749921E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F794021-C01E-4CB3-BE56-3CE7749921E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F794021-C01E-4CB3-BE56-3CE7749921E7}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{4F794021-C01E-4CB3-BE56-3CE7749921E7}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{4F794021-C01E-4CB3-BE56-3CE7749921E7}.Release|x86.ActiveCfg = Release|Any CPU
+		{B5DD52EF-6A75-4626-8B6E-CDC62A26F4A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5DD52EF-6A75-4626-8B6E-CDC62A26F4A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5DD52EF-6A75-4626-8B6E-CDC62A26F4A2}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{B5DD52EF-6A75-4626-8B6E-CDC62A26F4A2}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{B5DD52EF-6A75-4626-8B6E-CDC62A26F4A2}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B5DD52EF-6A75-4626-8B6E-CDC62A26F4A2}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5DD52EF-6A75-4626-8B6E-CDC62A26F4A2}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{B5DD52EF-6A75-4626-8B6E-CDC62A26F4A2}.Release|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{B5DD52EF-6A75-4626-8B6E-CDC62A26F4A2}.Release|Mixed Platforms.Build.0 = Debug|Any CPU
+		{B5DD52EF-6A75-4626-8B6E-CDC62A26F4A2}.Release|x86.ActiveCfg = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
